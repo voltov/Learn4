@@ -1,0 +1,14 @@
+C:\BUCKET\DOT_NET\Learn_4\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\BUCKET\DOT_NET\Learn_4\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\BUCKET\DOT_NET\Learn_4\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\BUCKET\DOT_NET\Learn_4\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\BUCKET\DOT_NET\Learn_4\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\BUCKET\DOT_NET\Learn_4\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\BUCKET\DOT_NET\Learn_4\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\BUCKET\DOT_NET\Learn_4\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\BUCKET\DOT_NET\Learn_4\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\BUCKET\DOT_NET\Learn_4\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\BUCKET\DOT_NET\Learn_4\Task1\obj\Debug\netcoreapp3.1\Task1.sourcelink.json
+C:\BUCKET\DOT_NET\Learn_4\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\BUCKET\DOT_NET\Learn_4\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\BUCKET\DOT_NET\Learn_4\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
